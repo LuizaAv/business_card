@@ -1,6 +1,6 @@
 {
   "homepage": "http://LuizaAv.github.io/digital_business_card",
-  "name": "card",
+  "name": "digital_business_card",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
