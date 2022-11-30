@@ -1,0 +1,29 @@
+.imgContainer > h2 {
+    color: whitesmoke;
+    margin: 0;
+    margin-left: 25%;
+}
+
+.imgContainer > h4 {
+    color: #F3BF99;
+    margin: 5px;
+    margin-left: 28%;
+}
+
+.mail {
+    color: #F3BF99;
+    margin: 5px;
+    margin-left: 30%;
+}
+
+.avatar{
+    height: 380px;
+    width: 317px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.phoneNumber{
+    color: #F3BF99;
+    margin: 5px;
+    margin-left: 32%;
+}

@@ -1,0 +1,21 @@
+
+.footerContainer{
+    height: 10.24vh;
+    width: 317px;
+    margin-top: 3.84vh;
+    background-color: black;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.avatarContainer{
+    display: flex;
+    margin-left: 20%;
+}
+
+.avatarContainer > img {
+    height: 4vh;
+    width: 1.83vw;
+    margin-top: 7%;
+    margin-left: 12%;
+    filter: drop-shadow(1px 0px 0px #D7DBD3);
+}

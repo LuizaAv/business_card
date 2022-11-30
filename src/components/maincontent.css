@@ -1,0 +1,16 @@
+.contentContainer{
+    height: auto;
+    width: 18.08vw;
+    margin-left: 10%;
+    margin-top: 15%;
+    color: antiquewhite;
+}
+
+.aboutContainer > span {
+    font-size: 12px;
+}
+
+
+.interestsContainer > span {
+    font-size: 12px;
+}

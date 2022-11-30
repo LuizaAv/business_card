@@ -1,0 +1,47 @@
+
+.btnContainer{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-top: 7%;
+}
+
+.githubBtn{
+    width: 8.41vw;
+    height: 5.44vh;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    filter: drop-shadow(2px 3px 5px #D7DBD3);
+}
+
+.githubIconTag{
+    height: 13px;
+    width: 14px;
+    margin-top: 2px;
+    padding: 0px;
+    margin-left: -17%;
+    margin-right: 10px;
+    border-radius: 1px;
+}
+
+.linkedIn{
+    height: 13px;
+    width: 14px;
+    margin-top: 2px;
+    margin-right: 10px;
+    border-radius: 1px;
+}
+
+.linkedInBtn{
+    margin-left: 8%;
+    width: 8.41vw;
+    height: 5.44vh;
+    background-color: #5093E2;
+    color: antiquewhite;
+    font-weight: 700;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    filter: drop-shadow(2px 3px 5px #D7DBD3);
+}
