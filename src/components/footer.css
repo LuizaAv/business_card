@@ -19,3 +19,18 @@
     margin-left: 12%;
     filter: drop-shadow(1px 0px 0px #D7DBD3);
 }
+
+@media only screen and (max-width: 900px){
+
+    .avatarContainer{
+        display: flex;
+        margin-left: 16%;
+    }
+
+    .avatarContainer > img {
+        height: 30px;
+        width: 30px;
+        margin-top: 7%;
+        margin-left: 12%;
+    }
+}
