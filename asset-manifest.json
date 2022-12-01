@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/business_card/static/css/main.4352f6ef.css",
+    "main.js": "/business_card/static/js/main.d502cd8f.js",
+    "static/js/787.86b5e812.chunk.js": "/business_card/static/js/787.86b5e812.chunk.js",
+    "static/media/pic.jpg": "/business_card/static/media/pic.efbf75c296fe47e075d2.jpg",
+    "static/media/curriculumvitae.pdf": "/business_card/static/media/curriculumvitae.29ae7522d5860161cda5.pdf",
+    "index.html": "/business_card/index.html",
+    "main.4352f6ef.css.map": "/business_card/static/css/main.4352f6ef.css.map",
+    "main.d502cd8f.js.map": "/business_card/static/js/main.d502cd8f.js.map",
+    "787.86b5e812.chunk.js.map": "/business_card/static/js/787.86b5e812.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4352f6ef.css",
+    "static/js/main.d502cd8f.js"
+  ]
+}
