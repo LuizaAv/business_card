@@ -2,6 +2,8 @@ import React, {useState} from "react";
 import "./maincontent.css";
 
 
+import pdf from "./curriculumvitae.pdf"
+
 export default function MainContent(){
     
 
@@ -22,6 +24,9 @@ export default function MainContent(){
                 <span>
                 Music scholar. Reader. Entrepreneur. Traveling lover. Coffee fanatic.
                 </span>
+            </div>
+            <div className="cv">
+                <a href={pdf} target="_blank">For more information check my <u>CV</u> please.</a>
             </div>
         </div>
     )
